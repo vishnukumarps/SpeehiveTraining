@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day4", "Day4", "{95D10076-9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{5E792A06-BB33-4CD2-AB92-415BF1F022FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E792A06-BB33-4CD2-AB92-415BF1F022FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E792A06-BB33-4CD2-AB92-415BF1F022FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E792A06-BB33-4CD2-AB92-415BF1F022FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E792A06-BB33-4CD2-AB92-415BF1F022FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74} = {95D10076-90C6-433D-919A-E7EEA3E03F84}
+		{5E792A06-BB33-4CD2-AB92-415BF1F022FC} = {95D10076-90C6-433D-919A-E7EEA3E03F84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25BCB05B-C8F6-4557-9E8A-161AB02E1F94}

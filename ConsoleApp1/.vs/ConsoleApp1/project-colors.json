@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcc04fcd-0eb0-439c-8f9b-e168bab77c9e": {
+      "ProjectGuid": "bcc04fcd-0eb0-439c-8f9b-e168bab77c9e",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "30c209c8-fdf1-4dd0-8bed-ae84adfdff74": {
+      "ProjectGuid": "30c209c8-fdf1-4dd0-8bed-ae84adfdff74",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 1
+    },
+    "5e792a06-bb33-4cd2-ab92-415bf1f022fc": {
+      "ProjectGuid": "5e792a06-bb33-4cd2-ab92-415bf1f022fc",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 2
+    },
+    "059dc88e-4059-449c-b281-86e2872d9b3c": {
+      "ProjectGuid": "059dc88e-4059-449c-b281-86e2872d9b3c",
+      "DisplayName": "Student-Mangement",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

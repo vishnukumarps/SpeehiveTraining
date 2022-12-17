@@ -15,6 +15,10 @@ namespace Student_Mangement.Helper
             Console.WriteLine("Hello ALL");
 
         }
+
+
+
+
        
         // 2 A Function Without Parameter with  Return Type
 

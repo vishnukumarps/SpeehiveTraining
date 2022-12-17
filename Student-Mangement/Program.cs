@@ -10,7 +10,7 @@ namespace Student_Mangement
         {
 
             Calculations obj = new Calculations(); // object creation
-            obj.SayHello(); // function call
+            obj.SayHello(); // function call                  
             obj.multiplication(10, 200);
 
             double number = obj.getMeTemp();

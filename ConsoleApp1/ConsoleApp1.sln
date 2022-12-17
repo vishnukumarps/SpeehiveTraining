@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{BCC04FCD-0EB0-439C-8F9B-E168BAB77C9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{BCC04FCD-0EB0-439C-8F9B-E168BAB77C9E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day4", "Day4", "{95D10076-90C6-433D-919A-E7EEA3E03F84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "..\ConsoleApp2\ConsoleApp2.csproj", "{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{5E792A06-BB33-4CD2-AB92-415BF1F022FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{5E792A06-BB33-4CD2-AB92-415BF1F022FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student-Mangement", "..\Student-Mangement\Student-Mangement.csproj", "{059DC88E-4059-449C-B281-86E2872D9B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student-Mangement", "..\Student-Mangement\Student-Mangement.csproj", "{059DC88E-4059-449C-B281-86E2872D9B3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day5", "Day5", "{9163A5A2-7579-49A6-A6FA-9BC4F75CA9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentMangementExample2", "..\StudentMangementExample2\StudentMangementExample2.csproj", "{8835BB1D-0647-4ACD-BF9E-2AE427A06559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +39,10 @@ Global
 		{059DC88E-4059-449C-B281-86E2872D9B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059DC88E-4059-449C-B281-86E2872D9B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059DC88E-4059-449C-B281-86E2872D9B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8835BB1D-0647-4ACD-BF9E-2AE427A06559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8835BB1D-0647-4ACD-BF9E-2AE427A06559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8835BB1D-0647-4ACD-BF9E-2AE427A06559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8835BB1D-0647-4ACD-BF9E-2AE427A06559}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +51,7 @@ Global
 		{30C209C8-FDF1-4DD0-8BED-AE84ADFDFF74} = {95D10076-90C6-433D-919A-E7EEA3E03F84}
 		{5E792A06-BB33-4CD2-AB92-415BF1F022FC} = {95D10076-90C6-433D-919A-E7EEA3E03F84}
 		{059DC88E-4059-449C-B281-86E2872D9B3C} = {95D10076-90C6-433D-919A-E7EEA3E03F84}
+		{8835BB1D-0647-4ACD-BF9E-2AE427A06559} = {9163A5A2-7579-49A6-A6FA-9BC4F75CA9D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25BCB05B-C8F6-4557-9E8A-161AB02E1F94}

@@ -11,7 +11,7 @@ namespace Student_Mangement
 
             Calculations obj = new Calculations(); // object creation
             obj.SayHello(); // function call                  
-            obj.multiplication(10, 200);
+            int x=obj.multiplication(10, 200);
 
             double number = obj.getMeTemp();
             Console.WriteLine(number);
@@ -22,7 +22,10 @@ namespace Student_Mangement
             y = Convert.ToInt32(Console.ReadLine());
 
 
-            obj.multiplication(x,y);
+            int ans=obj.multiplication(x,y);
+
+           ans= ans + 1;
+            Console.WriteLine(ans);
 
 
             Console.ReadKey();

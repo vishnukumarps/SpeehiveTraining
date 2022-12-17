@@ -1,0 +1,15 @@
+E:\SpeehiveTraining\StudentMangementExample2\bin\Debug\net6.0\StudentMangementExample2.exe
+E:\SpeehiveTraining\StudentMangementExample2\bin\Debug\net6.0\StudentMangementExample2.deps.json
+E:\SpeehiveTraining\StudentMangementExample2\bin\Debug\net6.0\StudentMangementExample2.runtimeconfig.json
+E:\SpeehiveTraining\StudentMangementExample2\bin\Debug\net6.0\StudentMangementExample2.dll
+E:\SpeehiveTraining\StudentMangementExample2\bin\Debug\net6.0\ref\StudentMangementExample2.dll
+E:\SpeehiveTraining\StudentMangementExample2\bin\Debug\net6.0\StudentMangementExample2.pdb
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.csproj.AssemblyReference.cache
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.AssemblyInfoInputs.cache
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.AssemblyInfo.cs
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.csproj.CoreCompileInputs.cache
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.dll
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\ref\StudentMangementExample2.dll
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.pdb
+E:\SpeehiveTraining\StudentMangementExample2\obj\Debug\net6.0\StudentMangementExample2.genruntimeconfig.cache

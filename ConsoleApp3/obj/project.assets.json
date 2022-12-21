@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SpeehiveTraining\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\SpeehiveTraining\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "E:\\SpeehiveTraining\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\SpeehiveTraining\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\SpeehiveTraining\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\SpeehiveTraining\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SpeehiveTraining\\Student-Mangement\\Student-Mangement.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\SpeehiveTraining\\Student-Mangement\\Student-Mangement.csproj",
       "projectName": "Student-Mangement",
-      "projectPath": "E:\\SpeehiveTraining\\Student-Mangement\\Student-Mangement.csproj",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\SpeehiveTraining\\Student-Mangement\\Student-Mangement.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\SpeehiveTraining\\Student-Mangement\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\SpeehiveTraining\\Student-Mangement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

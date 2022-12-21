@@ -31,16 +31,13 @@ namespace StudentMangementExample2.Helper
         public void DisplayStudentDetailsInScreen(Student s1)
         {
             Console.WriteLine($"Name  : {s1.Name}");
+            Console.WriteLine("name" + s1.Name);
+
+
             Console.WriteLine($"Age  : {s1.Age}");
             Console.WriteLine($"Address  : {s1.Address}");
+           
         }
-
-
-
-
-
-
-
 
 
 
@@ -53,6 +50,10 @@ namespace StudentMangementExample2.Helper
         public void WriteToFile(Student s1)
         {
             // file write
+            StreamWriter ob = new StreamWriter(@"C:\Users\Dell E6520\Desktop\Test1.txt", true);
+
+            ob.WriteLine("HAi");
+            ob.Close();
         }
 
         public void SendEmail(Student s1)

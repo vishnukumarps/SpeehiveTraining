@@ -14,5 +14,9 @@ namespace StudentMangementExample2.Model
         public string Address { get; set; }
         public string Mob { get; set; }
         public string Subject { get; set; }
+
+
+
+      
     }
 }

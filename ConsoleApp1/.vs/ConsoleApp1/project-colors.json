@@ -20,7 +20,27 @@
       "ProjectGuid": "059dc88e-4059-449c-b281-86e2872d9b3c",
       "DisplayName": "Student-Mangement",
       "ColorIndex": 3
+    },
+    "8835bb1d-0647-4acd-bf9e-2ae427a06559": {
+      "ProjectGuid": "8835bb1d-0647-4acd-bf9e-2ae427a06559",
+      "DisplayName": "StudentMangementExample2",
+      "ColorIndex": 4
+    },
+    "bfe7269f-c099-4f7b-a802-054cb727372e": {
+      "ProjectGuid": "bfe7269f-c099-4f7b-a802-054cb727372e",
+      "DisplayName": "WebApp",
+      "ColorIndex": 5
+    },
+    "0f9d1168-ec76-4645-8247-ddaaf00bf49f": {
+      "ProjectGuid": "0f9d1168-ec76-4645-8247-ddaaf00bf49f",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }

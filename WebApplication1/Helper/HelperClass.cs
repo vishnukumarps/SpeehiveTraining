@@ -1,4 +1,4 @@
-﻿using StudentMangementExample2.Model;
+﻿
 using WebApplication1.Models;
 
 namespace StudentMangementExample2.Helper

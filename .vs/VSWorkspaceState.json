@@ -3,8 +3,10 @@
     "",
     "\\ConsoleApp1",
     "\\StudentMangementExample2",
-    "\\StudentMangementExample2\\Model"
+    "\\StudentMangementExample2\\Helper",
+    "\\StudentMangementExample2\\Model",
+    "\\WebApplication1"
   ],
-  "SelectedNode": "\\StudentMangementExample2\\Model\\Student.cs",
+  "SelectedNode": "\\StudentMangementExample2\\Helper\\HelperClass.cs",
   "PreviewInSolutionExplorer": false
 }

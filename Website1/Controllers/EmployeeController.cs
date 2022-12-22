@@ -8,5 +8,15 @@ namespace Website1.Controllers
         {
             return View();
         }
+
+        public IActionResult AddDetails( string firstName1,string secondName1, string msg1)
+        {
+            ViewBag.Name=firstName1 + " " + secondName1;
+
+
+
+
+            return View();
+        }
     }
 }

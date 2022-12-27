@@ -1,32 +1,40 @@
-﻿using System.Net.Mail;
-try
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp3
 {
-    MailMessage mail = new MailMessage();
-    SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 10;
 
-    mail.From = new MailAddress("test.vihsnukumarps@gmail.com");
+            int []b =new int[10];
+            b[0] = 10;
+
+            string []names =new string[10];
+            names[0] = "Vishnu";
+
+            string msg = "Hello-world-Goodmorning";
+
+
+            string []data = msg.Split("-");
+
+            var x = "Hello";
+
+            Console.WriteLine(data[0]);
+            Console.WriteLine(data[1]);
+            Console.WriteLine(data[2]);
 
 
 
 
-    mail.To.Add("vishnukumar5417@gmail.com");
-    mail.Subject = "Test Email 1212 12";
-    mail.Body = "Hello  121212";
 
 
-    SmtpServer.Port = 587;
-    SmtpServer.Credentials = new System.Net.NetworkCredential("test.vishnukumarps@gmail.com", "tEST@1234");
-    SmtpServer.EnableSsl = true;
 
-    SmtpServer.Send(mail);
-
-    Console.WriteLine("Email Send Succesfully 12");
+        }
+    }
 }
-catch (Exception e)
-{
-    Console.WriteLine(e.Message);
-}
-Console.WriteLine("Email Send Succesfully");
-
-
-System.Diagnostics.Process.Start(@"C:\Users\user\Desktop\A.txt");

@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\bin\Debug\net6.0\FileExample.exe
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\bin\Debug\net6.0\FileExample.deps.json
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\bin\Debug\net6.0\FileExample.runtimeconfig.json
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\bin\Debug\net6.0\FileExample.dll
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\bin\Debug\net6.0\ref\FileExample.dll
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\bin\Debug\net6.0\FileExample.pdb
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.AssemblyInfo.cs
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.dll
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\ref\FileExample.dll
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.pdb
+C:\Users\user\Source\Repos\SpeehiveTraining\FileExample\obj\Debug\net6.0\FileExample.genruntimeconfig.cache

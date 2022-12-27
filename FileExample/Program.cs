@@ -12,6 +12,8 @@ namespace FileExample
             var data = Fullpath.Split("FileExample");
             Console.WriteLine(data[0]);
             var fullPath = data[0] + "FileExample\\" + "output\\A.txt";
+            
+            
             StreamWriter obj = new StreamWriter(fullPath, true);
             obj.WriteLine("Name :Vishnu");
             obj.Close();

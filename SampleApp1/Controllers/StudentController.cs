@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SampleApp1.Helper;
 
 namespace SampleApp1.Controllers
 {
@@ -33,6 +34,11 @@ namespace SampleApp1.Controllers
 
             ViewBag.StudentName1 = studnetName;
             ViewBag.RollNo2 = rollNo;
+
+
+            HelperClass obj = new HelperClass();
+            obj.WriteToNotePad(studnetName,rollNo);
+
             return View();
         }
 
